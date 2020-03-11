@@ -1,2 +1,3 @@
-# RNN_GRU_IBM_Stock_Price
-IBM stock price prediction with RNNs
+# Cancer Detection Classifer
+You may dowanload the data from here:
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
